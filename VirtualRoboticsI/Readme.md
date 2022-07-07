@@ -1,3 +1,3 @@
-# Virual Robotics I
+# Virtual Robotics I
 
-## [VR websit](https://vr.vex.com/)
+## [Virtual Robotics websit](https://vr.vex.com/)
