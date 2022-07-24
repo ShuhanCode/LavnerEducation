@@ -57,7 +57,6 @@
     >   -   $ 399 - 20? = 399
 
 6.  -   Holiday 
-    >   2022 Tech Revolution - Virtual Summer Tech Camps
     >   Virtual Robotics II with Vex VR (7/18/2022 - 7/22/2022 1pm-4pm ET / 10am-1pm PT)
 
 7.  2022 Tech Revolution - Virtual Summer Tech Camps
@@ -73,6 +72,5 @@
     >   -   $ 349 - 20? = 349
 
 10. -   6 / 10 ????? -  need plan?
-    >   2022 Tech Revolution - Virtual Summer Tech Camps
     >   Virtual Robotics II with Vex VR (8/22/2022 - 8/26/2022 1pm-4pm ET / 10am-1pm PT)
     >   -   $ 299 - 20? = 299
